@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+/* div {
+    background-image: url("./image.png");
+    background-size:auto;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+} */
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
