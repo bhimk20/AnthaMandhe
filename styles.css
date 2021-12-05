@@ -1,5 +1,9 @@
-h2 {
+body {
     text-align: center;
+}
+
+div {
+    font-weight: 800;
 }
 
 /* div {
